@@ -1,2 +1,2 @@
 # whoopdataanalysis
-Analysis and visualization of Whoop data set.
+This is a collection of visualizations with the purpose of gaining some insights from my Whoop data. First, i retrieved the data from my local database and imported the tables I needed. Then I created a couple of new dataframes in order to graph the data I needed from the tables. I started by plotting percentage of time spent in the various heart rate zones while playing soccer. Then, then I looked at those percentages against each other in a bar chart. After that, I looked at the relationship between resting heart rate, sleep duration, and strain agaist my recovery scores.
